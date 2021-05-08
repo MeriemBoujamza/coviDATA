@@ -1,3 +1,4 @@
+app requirements : ------------
 pywin32
 pyttsx3
 SpeechRecognition
